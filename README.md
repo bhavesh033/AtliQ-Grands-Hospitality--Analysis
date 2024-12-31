@@ -34,7 +34,7 @@ The dataset follows a **STAR SCHEMA** design for efficient querying and analysis
 **Data Model:**  
 A STAR SCHEMA was created to streamline relationships between tables.  
 
-![Data Model](https://github.com/Akashsingh1916/AtliQ-Grands-Hospitality--Analysis/assets/146354971/333260ba-ddb1-4ccc-8767-2ae75ce1524b)  
+![Data Model](https://github.com/bhavesh033/AtliQ-Grands-Hospitality--Analysis/blob/main/Star%20Schema.png)  
 
 ---
 
@@ -45,22 +45,22 @@ The Power BI report is divided into four pages:
 ### **1. Home Page**  
 A landing page for navigation to different sections of the report.  
 
-![Home Page](https://github.com/Akashsingh1916/AtliQ-Grands-Hospitality--Analysis/assets/146354971/f44f6c30-5cb1-43a0-8d14-7e422fe8a1c5)  
+![Home Page](https://github.com/bhavesh033/AtliQ-Grands-Hospitality--Analysis/blob/main/Home%20Page.png)  
 
-### **2. Overview Page**  
+### **2. Performance Overview Page**  
 Provides a high-level summary of metrics and performance indicators.  
 
-![Overview Page](https://github.com/Akashsingh1916/AtliQ-Grands-Hospitality--Analysis/assets/146354971/395e8f23-ca32-48c7-af53-ce66ee86d0a4)  
+![Overview Page](https://github.com/bhavesh033/AtliQ-Grands-Hospitality--Analysis/blob/main/Performance%20%20Page.png)  
 
-### **3. Revenue & Occupancy Contributors (R&O) Page**  
+### **3. Revenue Overview Page**  
 Analyzes key contributors to revenue and occupancy rates.  
 
-![R&O Page](https://github.com/Akashsingh1916/AtliQ-Grands-Hospitality--Analysis/assets/146354971/fd94276d-4fb9-4570-952a-e5ece4bc6e0f)  
+![R&O Page](https://github.com/bhavesh033/AtliQ-Grands-Hospitality--Analysis/blob/main/Revenue%20Overview.png)  
 
-### **4. Booking & Average Rating Contributors (B&AR) Page**  
+### **4. Booking Overview Page**  
 Explores booking patterns and customer ratings.  
 
-![B&AR Page](https://github.com/Akashsingh1916/AtliQ-Grands-Hospitality--Analysis/assets/146354971/6b92173b-3099-4e37-80ff-d59d04e1a24e)  
+![B&AR Page](https://github.com/bhavesh033/AtliQ-Grands-Hospitality--Analysis/blob/main/Booking%20Overview.png)  
 
 ---
 
