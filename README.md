@@ -116,5 +116,3 @@ Explores booking patterns and customer ratings.
 - Enhance user experience with advanced Power BI features.  
 
 ---
-
-Feel free to fork this repository and contribute! 😊
